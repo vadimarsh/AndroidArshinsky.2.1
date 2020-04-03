@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Подписка</string>
+    <string name="textEmail">Электронная почта</string>
+    <string name="textName">Имя пользователя</string>
+    <string name="okButText">Подписаться</string>
+    <string name="clearButText">Очистить</string>
+    <string name="resultText1">Подписка на рассылку успешно оформлена для пользователя</string>
+    <string name="resultText2">на электронный адрес</string>
+    <string name="errorEmptyFields">Пожалуйста, заполните все поля!</string>
+
+</resources>
